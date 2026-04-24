@@ -31,7 +31,7 @@ The raw data contained significant noise, including four variations of campaign 
 
 4. __Strategic Recommendations for Long-term Sustainability__<br>
 Based on the 6.98x ROAS, the following three-pillar strategy are proposed for the upcoming fiscal year:
-1.	_Aggressive Scaling of Desktop Budgets_: Since Desktop provides the lowest CPA and highest ROAS, a 15% budget reallocation toward Desktop during peak conversion hours is recommended to maximize net profit.
-2.	_Keyword Expansion_: "Exact Match" campaigns for our top 3 keywords ("learn data analytics", "data analytics course", and "data analytics training") should be launched to lower costs further by increasing the Quality Score.
-3.	_Sustainability via CPA Caps_: To ensure long-term profitability, an automated "CPA Cap" of $35.00 should be implemented. Currently, our average is $32.95, giving us a safety margin to scale while maintaining a minimum 6x ROAS.
+   1.	_Aggressive Scaling of Desktop Budgets_: Since Desktop provides the lowest CPA and highest ROAS, a 15% budget reallocation toward Desktop during peak conversion hours is recommended to maximize net profit.
+   2.	_Keyword Expansion_: "Exact Match" campaigns for our top 3 keywords ("learn data analytics", "data analytics course", and "data analytics training") should be launched to lower costs further by increasing the Quality Score.
+   3.	_Sustainability via CPA Caps_: To ensure long-term profitability, an automated "CPA Cap" of $35.00 should be implemented. Currently, our average is $32.95, giving us a safety margin to scale while maintaining a minimum 6x ROAS.
 
