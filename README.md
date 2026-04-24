@@ -3,8 +3,7 @@ Analysing Synthetic Google Ads Raw Sales Records in 2024 (https://www.kaggle.com
 
 _In this Portfolio Project I would like to demonstrate my authentic analytical process and how I derive actionable insights from this dataset_. 
 
-<img width="1189" height="590" alt="googleads5" src="https://github.com/user-attachments/assets/760a49d0-b29c-4493-a833-63a29869e9a8" />
-
+<img width="1189" height="590" alt="googleads5" src="https://github.com/user-attachments/assets/1719c485-21c9-4264-a238-971309a11940" />
 <img width="1387" height="690" alt="googleads4" src="https://github.com/user-attachments/assets/4ccea4cf-29dc-4d42-a8ec-57f974ee06fa" />
 
 The data reveals a strong positive correlation between investment and returns. Generally, spikes in daily spend are met with corresponding (and significantly amplified) peaks in revenue, suggesting a healthy Return on Ad Spend (ROAS).
