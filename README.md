@@ -9,6 +9,9 @@ _In this Portfolio Project I would like to demonstrate my authentic analytical p
 
 The data reveals a strong positive correlation between investment and returns. Generally, spikes in daily spend are met with corresponding (and significantly amplified) peaks in revenue, suggesting a healthy Return on Ad Spend (ROAS).
 
+Note on Dataset
+_The raw data contained significant noise, including four variations of campaign names and multiple geographical misspellings (e.g., "Hydrebad"). By consolidating these into a single "Data Analytics Course" campaign, it is discovered that the performance is much more centralized and stable than fragmented reporting would suggest._
+
 
 # Conclusion - Insights - Recommendation
 
@@ -31,9 +34,6 @@ The keyword analysis reveals a strong focus on high-intent educational queries:<
    2.	"_learn data analytics_": Highest total revenue driver ($608k).
    3.	"_data anaytics training_": Exceptional efficiency with over 2,400 conversions.
    
-## Note on Dataset<br>
-The raw data contained significant noise, including four variations of campaign names and multiple geographical misspellings (e.g., "Hydrebad"). By consolidating these into a single "Data Analytics Course" campaign, it is discovered that the performance is much more centralized and stable than fragmented reporting would suggest.
-
 ## Strategic Recommendations for Long-term Sustainability<br>
 Based on the 6.98x ROAS, the following three-pillar strategy are proposed for the upcoming fiscal year:
    1.	_Aggressive Scaling of Desktop Budgets_: Since Desktop provides the lowest CPA and highest ROAS, a 15% budget reallocation toward Desktop during peak conversion hours is recommended to maximize net profit.
