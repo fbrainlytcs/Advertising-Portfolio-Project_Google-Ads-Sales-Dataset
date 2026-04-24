@@ -29,7 +29,7 @@ The keyword analysis reveals a strong focus on high-intent educational queries:<
    2.	"_learn data analytics_": Highest total revenue driver ($608k).
    3.	"_data anaytics training_": Exceptional efficiency with over 2,400 conversions.
 
-<img width="1389" height="789" alt="googleads6" src="https://github.com/user-attachments/assets/bcb420c7-994b-4323-b272-617db5f67895" />
+<img width="1389" height="789" alt="googleads6" src="https://github.com/user-attachments/assets/f4875fdc-9de2-4083-941e-f6cade2f2216" />
 
 Note on the Dataset:<br>
 _The raw data contained significant noise, including four variations of campaign names and multiple geographical misspellings (e.g., "Hydrebad"). By consolidating these into a single "Data Analytics Course" campaign, it is discovered that the performance is much more centralized and stable than fragmented reporting would suggest._
